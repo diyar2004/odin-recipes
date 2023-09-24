@@ -8,4 +8,4 @@ project, I will be demonstrating the following skills:
 
 Stay tuned for more updates as I work on this project!
 
-Live website: https://diyar2004.github.io/odin-recipes/index.html/keshmeshi-cookies.html/chocolate-chip.html/bacon_eggs.html/
+Live website: https://diyar2004.github.io/odin-recipes/index.html
